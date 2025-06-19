@@ -1,13 +1,5 @@
 # 🚀 Network Intrusion Detection - ML Models Training
 
-![GitHub License](https://img.shields.io/github/license/MOHAMEDBOUTALMAOUINE/Network-Intrusion-Detection---ML-Models-Training?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/MOHAMEDBOUTALMAOUINE/Network-Intrusion-Detection---ML-Models-Training?style=for-the-badge)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/MOHAMEDBOUTALMAOUINE/Network-Intrusion-Detection---ML-Models-Training?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/MOHAMEDBOUTALMAOUINE/Network-Intrusion-Detection---ML-Models-Training?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/MOHAMEDBOUTALMAOUINE/Network-Intrusion-Detection---ML-Models-Training?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge)
-
-
 ---
 
 ## 📚 Project Overview
